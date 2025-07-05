@@ -57,6 +57,6 @@ class Solution:
 
 ## Прогресс
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/{lev1nxxx}?theme=nord&font=Roboto&ext=contest) 
+![LeetCode Stats](https://leetcard.jacoblin.cool/lev1nxxx?theme=nord&font=Roboto&ext=contest)
 
 
